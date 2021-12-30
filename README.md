@@ -1,6 +1,7 @@
-# YOLO-
+# A Model For Preventing Leaking Of Biometric Information Using_YOLO and Adversarial Attack
 
-
+### [Data]
+업로드 
 
 ### [Code List]
 1. 라이브러리 설치 및 데이터 준비.ipynb  
@@ -11,3 +12,4 @@
    - 내용 : YOLOv5를 사용하여 얼굴을 인식하는 모델 학습  
 
 3. Adversarial Attack 적용.ipynb
+   - 내용 : 적대적 공격 생성
